@@ -1,0 +1,15 @@
+#include<stdio.h>
+include<math.h>
+int main()
+{
+	int y;
+	double result;
+	y=0;
+	result=sin(y);
+	printf("sin 0:%f\n",result);
+	
+	y=1;
+	result=sin(y);
+	printf("sin1:%f\n",result);
+	return 0;
+}

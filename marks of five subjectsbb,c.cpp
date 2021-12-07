@@ -8,7 +8,7 @@ main()
 	scanf("%d",&c);
 	scanf("%d",&d);
 	scanf("%d",&e);
-	p=((a+b+c+d+e)*100)/50;
+	p=((a+b+c+d+e)*100)/5;
 	if(p>90)
 
 	 {
