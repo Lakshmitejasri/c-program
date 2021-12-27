@@ -1,13 +1,11 @@
 #include<stdio.h>
 int main()
 {
-	int a,b;
-	scanf("%d",&a);
-	scanf("%d",&b);
-	while (a<=b)
+	int num,var=2;
+	scanf("%d",&num);
+	while(var<=num)
 	{
-		if(a%2==0)
-		printf("%d",a);
-		a=a+1;
+		printf("%d",var);
+		var+=2;
 	}
 }
