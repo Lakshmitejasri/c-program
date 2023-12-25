@@ -1,4 +1,5 @@
 //max and min
+//Now let's find out the maximum value and the minimum value
 #include<stdio.h>
 void maxmin(int*,int*,int*,int*);
 void main()
